@@ -1,0 +1,6 @@
+[package]
+name = "error_util"
+version = "0.0.1"
+authors = ["Casey Duckering"]
+
+[dependencies]
