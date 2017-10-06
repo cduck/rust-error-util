@@ -2,5 +2,16 @@
 name = "error_util"
 version = "0.0.1"
 authors = ["Casey Duckering"]
+description = "Types and macros to help with common error handling in the Rust language"
+homepage = "https://github.com/cduck/rust-error-util"
+# documentation = ""
+repository = "https://github.com/cduck/rust-error-util"
+readme = "README.md"
+keywords = ["error"]
+# categories = [""]
+license = "MIT/Apache-2.0"
+
+[badges]
+maintenance = { status = "experimental" }
 
 [dependencies]
